@@ -2,7 +2,7 @@
 Example project for demonstrating RabbitMQ message broker.
 
 
-## Requirements
+## requirements
 
 - RabbitMQ server
 - Erlang 
